@@ -2,6 +2,7 @@ build
 dist / media
 .DS_Store
 .env
+payload-sqlite.db
 
 # Logs
 logs
